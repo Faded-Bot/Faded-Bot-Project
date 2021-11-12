@@ -2,15 +2,6 @@
 The Official Faded Bot Project Maker! 
 
 
-# DOWNLOAD
+### Why There is no files?
 
-### Installer
-
-Click on Releases, Then Click on the **LATEST** Release!
-
-Then Click on .zip!
-
-
-### Source Code
-
-Just Click on Code :/
+I am remaking due to the installer and the generator having memory leaks :)
