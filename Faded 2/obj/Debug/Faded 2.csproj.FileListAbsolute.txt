@@ -1,0 +1,6 @@
+C:\Users\zzerz\source\repos\Faded 2\Faded 2\bin\Debug\Faded 2.exe.config
+C:\Users\zzerz\source\repos\Faded 2\Faded 2\bin\Debug\Faded 2.exe
+C:\Users\zzerz\source\repos\Faded 2\Faded 2\bin\Debug\Faded 2.pdb
+C:\Users\zzerz\source\repos\Faded 2\Faded 2\obj\Debug\Faded 2.csproj.CoreCompileInputs.cache
+C:\Users\zzerz\source\repos\Faded 2\Faded 2\obj\Debug\Faded 2.exe
+C:\Users\zzerz\source\repos\Faded 2\Faded 2\obj\Debug\Faded 2.pdb
