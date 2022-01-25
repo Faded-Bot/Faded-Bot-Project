@@ -14,7 +14,7 @@ Then Click on .zip!
 ## ITEMS
 <details>
 <table>
-  <tr><th></th><th>LANGUAGES</th></tr>
+  <tr><th>LANGUAGES</th></tr>
   <tr><td>Javascript</td></tr>
   <tr><td>Pyhton</td></tr>
 </table>
