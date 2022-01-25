@@ -1,0 +1,6 @@
+C:\Users\zzerz\source\repos\Faded\Faded\bin\Debug\Faded.exe
+C:\Users\zzerz\source\repos\Faded\Faded\bin\Debug\Faded.pdb
+C:\Users\zzerz\source\repos\Faded\Faded\obj\Debug\Faded.csproj.AssemblyReference.cache
+C:\Users\zzerz\source\repos\Faded\Faded\obj\Debug\Faded.csproj.CoreCompileInputs.cache
+C:\Users\zzerz\source\repos\Faded\Faded\obj\Debug\Faded.exe
+C:\Users\zzerz\source\repos\Faded\Faded\obj\Debug\Faded.pdb
