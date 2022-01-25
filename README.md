@@ -15,8 +15,8 @@ Then Click on .zip!
 <details>
 <table>
   <tr><th></th><th>LANGUAGES</th></tr>
-  <tr><td>Javascript</td><td>200+</td></tr>
-  <tr><td>Pyhton</td><td>400+</td></tr>
+  <tr><td>Javascript</td></tr>
+  <tr><td>Pyhton</td></tr>
 </table>
 </details>
 <br>
