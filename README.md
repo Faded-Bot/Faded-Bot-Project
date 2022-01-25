@@ -11,6 +11,12 @@ Click on Releases, Then Click on the **LATEST** Release!
 Then Click on .zip!
 
 
-### Source Code
-
-Just Click on Code :/
+## ITEMS
+<details>
+<table>
+  <tr><th></th><th>LANGUAGES</th></tr>
+  <tr><td>Javascript</td><td>200+</td></tr>
+  <tr><td>Pyhton</td><td>400+</td></tr>
+</table>
+</details>
+<br>
