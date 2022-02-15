@@ -1,6 +1,0 @@
-C:\Users\zzerz\source\repos\Faded\Faded\bin\Release\Faded.exe
-C:\Users\zzerz\source\repos\Faded\Faded\bin\Release\Faded.pdb
-C:\Users\zzerz\source\repos\Faded\Faded\obj\Release\Faded.csproj.AssemblyReference.cache
-C:\Users\zzerz\source\repos\Faded\Faded\obj\Release\Faded.csproj.CoreCompileInputs.cache
-C:\Users\zzerz\source\repos\Faded\Faded\obj\Release\Faded.exe
-C:\Users\zzerz\source\repos\Faded\Faded\obj\Release\Faded.pdb
