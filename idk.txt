@@ -1,0 +1,11 @@
+    //public static async void Create
+    //public static async void Delete
+    //public static async void Update
+    //public static async void Get
+    //public static async void GetAll
+    //public static async void GetByName
+    //public static async void GetByID
+    //public static async void GetByOwner
+    //public static async void GetByPrefix
+    //public static async void GetByType
+    //public static async void GetByOwner
