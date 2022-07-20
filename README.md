@@ -31,6 +31,7 @@ This application is covered by the mit license.
 
 ## Questions
 <br />
-:octocat: Find me on GitHub: [KumikoDev](https://github.com/kumikodev)<br />
+:octocat: Find me on GitHub: [KumikoDev](https://github.com/kumikodev)
+<br />
 <br />
 ✉️ Email me with any questions: premature_.dev@outlook.com<br /><br />
